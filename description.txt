@@ -1,4 +1,6 @@
-A mod to add plants, to allow synthesis of unavailable resources. Has a small addition to the campaign tree, and new walls, towers, and production blocks. Mindustry is too industrial! It has too much mining! It needs more... nature! :D
+A mod to add plants, to allow synthesis of unavailable resources. Has a small addition to the campaign tree, and new walls, towers, and production blocks. Mindustry is too industrial! It has too much mining!
+
+It needs more... nature! :D
 
 Current Features:
  - Wood walls
