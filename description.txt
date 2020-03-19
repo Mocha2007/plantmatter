@@ -12,8 +12,9 @@ Current Features:
  - Four new plant-themed enemies!
 
 Planned Features:
- - Expand the campaign trail more to fully utilize the new items
+ - Expand the campaign trail more to fully utilize the new items, culminating in a plant-only map
  - More plant-themed enemies, including the wood sprite, ent, and spriggan.
+ - Wood conveyor
 
 Notes:
  - I haven't done extensive testing yet, so the balance might still be off a bit. Please tell me your experience with this mod! Too easy? Too hard? Just right? Anything is helpful!
