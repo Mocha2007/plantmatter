@@ -1,0 +1,10 @@
+name: Wood Wall
+description: A wall made of wood. Very weak.
+type: Wall
+health: 160
+size: 1
+requirements: [
+  plant-matter/6
+]
+category: defense
+research: park1
