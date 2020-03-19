@@ -1,0 +1,25 @@
+name: Park (1x1)
+description: A pretty park. Gradually produces more plant matter.
+type: GenericCrafter
+health: 25
+size: 1
+canOverdrive: false
+requirements: [
+  copper/1
+  plant-matter/6
+]
+category: production
+research: mechanical-pump
+
+craftTime: 3600
+hasPower: false
+hasLiquids: true
+hasItems: true
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.01667
+    booster: true
+  }
+}
+outputItem: plant-matter/1

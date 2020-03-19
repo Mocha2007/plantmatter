@@ -1,0 +1,25 @@
+name: Park (2x2)
+description: A larger park. Slowly produces more plant matter.
+type: GenericCrafter
+health: 100
+size: 2
+canOverdrive: false
+requirements: [
+  lead/4
+  plant-matter/24
+]
+category: production
+research: park1
+
+craftTime: 450
+hasPower: false
+hasLiquids: true
+hasItems: true
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.01667
+    booster: true
+  }
+}
+outputItem: plant-matter/1

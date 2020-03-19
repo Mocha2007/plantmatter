@@ -1,0 +1,25 @@
+name: Park (4x4)
+description: An huge park. Produces more plant matter at a fast rate.
+type: GenericCrafter
+health: 400
+size: 4
+canOverdrive: false
+requirements: [
+  thorium/16
+  plant-matter/96
+]
+category: production
+research: park3
+
+craftTime: 28.125
+hasPower: false
+hasLiquids: true
+hasItems: true
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.01667
+    booster: true
+  }
+}
+outputItem: plant-matter/1

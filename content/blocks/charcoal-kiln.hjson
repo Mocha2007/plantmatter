@@ -1,0 +1,30 @@
+name: Charcoal Kiln
+description: Turns plant matter into coal.
+type: GenericCrafter
+
+size: 2
+health: 60
+craftTime: 120
+craftEffect: pulverize
+
+hasPower: false
+hasLiquids: false
+hasItems: true
+consumes: {
+	items: {
+		items: [
+			plant-matter/2
+		]
+	}
+}
+
+outputItem: coal/1
+
+requirements: [
+	copper/50
+	lead/20
+	plant-matter/30
+]
+
+category: crafting
+research: park3

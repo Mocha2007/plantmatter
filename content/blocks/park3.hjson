@@ -1,0 +1,25 @@
+name: Park (3x3)
+description: An even bigger park. Produces more plant matter at a decent rate.
+type: GenericCrafter
+health: 225
+size: 3
+canOverdrive: false
+requirements: [
+  titanium/9
+  plant-matter/54
+]
+category: production
+research: park2
+
+craftTime: 100
+hasPower: false
+hasLiquids: true
+hasItems: true
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.01667
+    booster: true
+  }
+}
+outputItem: plant-matter/1

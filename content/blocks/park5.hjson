@@ -1,0 +1,25 @@
+name: Park (5x5)
+description: A collossal park. Produces more plant matter at an insane rate.
+type: GenericCrafter
+health: 625
+size: 5
+canOverdrive: false
+requirements: [
+  surge-alloy/25
+  plant-matter/150
+]
+category: production
+research: park4
+
+craftTime: 9
+hasPower: false
+hasLiquids: true
+hasItems: true
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.01667
+    booster: true
+  }
+}
+outputItem: plant-matter/1

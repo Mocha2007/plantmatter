@@ -1,0 +1,25 @@
+name: Seed Collector
+description: Uses a small electric current to attract seeds floating in the air.
+type: GenericCrafter
+
+size: 1
+health: 60
+craftTime: 600
+craftEffect: pulverize
+
+hasPower: true
+hasLiquids: false
+hasItems: true
+consumes: {
+	power: 0.5
+}
+
+outputItem: plant-matter/1
+
+requirements: [
+	copper/15
+	lead/10
+]
+
+category: crafting
+research: park1

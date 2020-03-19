@@ -1,0 +1,30 @@
+name: Green Transition
+description: Bits of plant life can be seen here.
+loadout: basicFoundation
+startingItems: [
+  copper/250
+]
+conditionWave: 10
+launchPeriod: 10
+requirements: [
+  {
+    type: ZoneWave
+    zone: groundZero
+    wave: 25
+  }
+  {
+    type: Unlock
+    block: silicon-smelter
+  }
+  {
+    type: Unlock
+    block: solar-panel
+  }
+]
+resources: [
+  copper
+  lead
+  coal
+  sand
+  plant-matter
+]
