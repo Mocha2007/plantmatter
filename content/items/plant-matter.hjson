@@ -1,6 +1,6 @@
 type: material
 name: Plant Matter
-description: A resource valued for its aesthetics.
+description: A resource valued for its aesthetics. Don't ask how miners mine this.
 flammability: 0.75
 cost: 2
 color: 00c000
