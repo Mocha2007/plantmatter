@@ -1,0 +1,6 @@
+name: Sap
+description: The blood of trees.
+viscosity: 0.5
+flammability: 0.75
+effect: tarred
+color: e08040

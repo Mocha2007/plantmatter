@@ -2,5 +2,5 @@ name: "mocha-plant-mod"
 displayName: "Mocha's [green]Plant[] Mod" //what displays in the mod selection menu
 author: "mocha2007"
 description: "A mod to add [green]plants[], to allow synthesis of unavailable resources. Has a small addition to the campaign tree, and new walls, towers, and production blocks. Mindustry is too [orange]industrial[]! It has too much [blue]mining[]! It needs more... [green]nature[]! :D"
-version: "1.0.200319.1"
+version: "1.0.200319.2"
 minGameVersion: "103"

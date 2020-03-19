@@ -3,15 +3,16 @@ A mod to add plants, to allow synthesis of unavailable resources. Has a small ad
 It needs more... nature! :D
 
 Current Features:
- - Wood walls
- - 2 production blocks to use/produce your plantmatter
+ - Plant matter (produced by trees and seed collectors, as versatile as copper in vanilla)
+ - Sap liquid (partial replacement for oil)
+ - Wood walls (small and large)
+ - 3 new production blocks to use/produce your plantmatter
  - the woodchuck turret, a slower, weaker, higher-damage version of the Duo
  - A new map on the campaign trail!
 
 Planned Features:
  - Expand the campaign trail to fully utilize the new items
  - Wood sprite, ent, spriggan enemies.
- - Sap liquid (replacement for oil)
 
 Notes:
  - I haven't done extensive testing yet, so the balance might still be off a bit. Please tell me your experience with this mod! Too easy? Too hard? Just right? Anything is helpful!
