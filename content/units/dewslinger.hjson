@@ -1,0 +1,14 @@
+type: groundUnit
+name: Dewslinger
+description: Very annoying but mostly harmless.
+speed: 0.25
+drag: 0.4
+mass: 1.75
+rotatespeed: 0.15
+health: 120
+weapon: {
+  reload: 30
+  ejectEffect: none
+  shootSound: flame
+  bullet: waterShot
+}

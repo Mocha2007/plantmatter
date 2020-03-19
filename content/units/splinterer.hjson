@@ -1,0 +1,18 @@
+type: groundUnit
+name: Splinterer
+description: Shoots a rapid stream of large, painful splinters.
+health: 500
+mass: 4
+speed: 0.1
+drag: 0.4
+rotatespeed: 0.05
+weapon: {
+  width: 1
+  reload: 20
+  shots: 1
+  shootCone: 90
+  inaccuracy: 10
+  ejectEffect: none
+  shootSound: spark
+  bullet: flakScrap
+}

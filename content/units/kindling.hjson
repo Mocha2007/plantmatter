@@ -1,0 +1,14 @@
+type: groundUnit
+name: Kindling
+description: Speedy unit that sets everything it touches ablaze.
+speed: 0.4
+range: 2
+drag: 0.4
+mass: 1.75
+health: 60
+weapon: {
+  reload: 20
+  ejectEffect: none
+  shootSound: pew
+  bullet: bombIncendiary
+}
