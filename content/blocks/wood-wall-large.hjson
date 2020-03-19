@@ -1,5 +1,5 @@
 name: Large Wood Wall
-description: A large wall made of wood. Very weak.
+description: A large wall made of wood. Very weak. Spans multiple tiles.
 type: Wall
 health: 640
 size: 2
