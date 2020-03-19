@@ -1,11 +1,11 @@
 name: Dimwood
-description: Angered animate saplings can be seen walking around, but this area is otherwise peaceful. Simply mine resources and ignore their harmless attacks. Warning: Landing location cannot be guaranteed.
+description: Angered animate saplings can be seen walking around, but this area is otherwise peaceful. Simply mine resources and ignore their harmless attacks.
 loadout: basicFoundation
 startingItems: [
   copper/200
   lead/50
 ]
-conditionWave: 10
+conditionWave: 15
 launchPeriod: 10
 requirements: [
   {

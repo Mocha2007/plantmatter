@@ -1,7 +1,7 @@
 type: groundUnit
 name: Kindling
 description: Speedy unit that sets everything it touches ablaze.
-speed: 0.4
+speed: 0.5
 range: 2
 drag: 0.4
 mass: 1.75
