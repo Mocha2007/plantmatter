@@ -1,0 +1,12 @@
+A mod to add plants, to allow synthesis of unavailable resources. Has a small addition to the campaign tree, and new walls, towers, and production blocks. Mindustry is too industrial! It has too much mining! It needs more... nature! :D
+
+Current Features:
+ - Wood walls
+ - 2 production blocks to use/produce your plantmatter
+ - the woodchuck turret, a slower, weaker, higher-damage version of the Duo
+ - A new map on the campaign trail!
+
+Planned Features:
+ - Expand the campaign trail to fully utilize the new items
+ - Wood sprite, ent, spriggan enemies.
+ - Sap liquid (replacement for oil)
